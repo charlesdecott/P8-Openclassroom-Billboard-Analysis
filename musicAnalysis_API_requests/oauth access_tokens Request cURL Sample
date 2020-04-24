@@ -1,0 +1,5 @@
+curl --location --request POST 'https://api.prd.musimap.io/oauth/access_tokens' \
+--header 'Content-Type: application/x-www-form-urlencoded' \
+--data-urlencode 'grant_type=client_secret' \
+--data-urlencode 'client_id=c0cacf31-3f7f-4731-ae8a-6a15c9800d82' \
+--data-urlencode 'client_secret=C7hBwJiFgjuvJhchaMAwH3eyTFSzSjZe3C6IXTkdaPHV-BjAB-NFRzlYOGgbDO1-ZBfbMRGT8YnNOJFrcwhM53peu_ZuTZl7b504jvMwlWqHpxC9jC10S2SAXRpzo-jhU-YTgqRpOG9NRotJB0JMK4oKZZHn7_suP2V5pE01cNI'
